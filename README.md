@@ -1,6 +1,6 @@
 ## Hey, I'm Scott 👋
 
-I build infrastructure for AI agents.
+I build infrastructure for AI agents. Those AI Agents 10x your life. 
 
 **Focus areas:**
 → Multi-agent memory systems (how agents remember & share context)
