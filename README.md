@@ -16,4 +16,4 @@ Co-founder @ [Apex Insights](https://getapexinsights.com) — practical AI for S
 
 **Stack:** TypeScript · Python · GCP · BigQuery · Claude · n8n
 
-📬 [LinkedIn]([https://linkedin.com/in/skobyn](https://www.linkedin.com/in/scott-benson-mba/))
+📬 [LinkedIn](https://www.linkedin.com/in/scott-benson-mba/)
