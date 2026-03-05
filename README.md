@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey, I'm Scott 👋
 
-<!--
-**Skobyn/skobyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build infrastructure for AI agents.
 
-Here are some ideas to get you started:
+**Focus areas:**
+→ Multi-agent memory systems (how agents remember & share context)
+→ MCP servers ([DataForSEO server](https://github.com/skobyn/dataforseo-mcp-server) — 70+ ⭐)
+→ Agent orchestration & automation
+→ Production AI on GCP/BigQuery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Why this matters:**
+Most AI demos break in production. I build the boring parts that make agents actually work — memory, context, tool integration.
+
+**Current:**
+Co-founder @ [Apex Insights](https://getapexinsights.com) — practical AI for SMBs.
+
+**Stack:** TypeScript · Python · GCP · BigQuery · Claude · n8n
+
+📬 [LinkedIn]([https://linkedin.com/in/skobyn](https://www.linkedin.com/in/scott-benson-mba/))
