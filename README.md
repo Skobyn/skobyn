@@ -14,6 +14,6 @@ Most AI demos break in production. I build the boring parts that make agents act
 **Current:**
 Co-founder @ [Apex Insights](https://getapexinsights.com) — practical AI for SMBs.
 
-**Stack:** TypeScript · Python · GCP · BigQuery · Claude · n8n
+**Stack:** TypeScript · Python · GCP · BigQuery · Claude · C# · React
 
 📬 [LinkedIn](https://www.linkedin.com/in/scott-benson-mba/)
